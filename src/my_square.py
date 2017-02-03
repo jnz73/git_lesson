@@ -1,8 +1,7 @@
-def my_square(y):
+def  my_square(y):
 	"""squares a number
-	using the ** operator
+	using the * operator
 	"""
 	return(y ** 2)
 
-print (my_square(6))
-
+print (my_square(42))
